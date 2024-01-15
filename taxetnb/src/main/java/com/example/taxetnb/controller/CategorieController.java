@@ -14,4 +14,6 @@ public class CategorieController extends AbstractController<Categorie, Categorie
         super(service);
     }
 
+
+
 }
